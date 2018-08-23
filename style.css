@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 120%;
+    background: white;
+
+}
+
+.header{
+    width: 30%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #ff3b71;
+    text-align: center;
+    border: 1px solid ;
+    font-weight: bold !important;
+    border-color: #fff7ee;
+    border-bottom: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 20px;
+}
+
+form{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+    border: 1px solid #ffe9c3;
+    mso-border-shadow: yes;
+    background: #fffde6;
+    border-radius:0px 0px 10px 10px ;
+}
+
+form button{
+    text-align: center;
+    font-family: "Bitstream Charter";
+}
+
+.input1{
+    margin: 10px 0px 10px 0px ;
+}
+
+.input1 label{
+    display: block;
+    text-align: left;
+    margin: 3px;
+}
+
+.input1 input{
+    height: 30px;
+    width: 93%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.errors{
+    width: 92%;
+    font-weight: bold !important;
+    padding: 10px;
+    margin: 0px auto;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+
+}
+
+form, .content {
+    width: 30%;
+    margin: 0px auto;
+    padding: 20px;
+    border: 1px solid #B0C4DE;
+    background: white;
+    border-radius: 0px 0px 10px 10px;
+}
+
+#space{
+    margin-left: 10px;
+}
+
+.success{
+    padding: 10px;
+    color: #3c763d;
+    background: #dff0d8;
+    border: 1px solid #3c763d;
+    margin-bottom: 20px;
+}
+
